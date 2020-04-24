@@ -1,7 +1,7 @@
 spring:
 #登录国际化基础名称加载......
   messages:
-    basename: i18n\login
+    basename: i18n/login
 #数据源
   datasource:
     username: root
